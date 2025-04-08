@@ -1,2 +1,2 @@
-# jizzyandco-beatstore
-Official beat store website for Jizzy McCrazy 
+# Jizzy & Co. Beatstore
+This is the custom beatstore built for Jizzy McCrazy.
