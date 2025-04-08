@@ -1,0 +1,1 @@
+// JavaScript for handling beat previews and interactions
